@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "myHelper",
+    "pageId": "Profiler",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Profiler_myHelper",
+  "deleted": false,
+  "gitSyncId": "6597f6732b600e48277a6025_659cd624ade00538118e5426"
+}
